@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace FileIOArray
 {
     /// <summary>
-    /// App to Demonstrate File IO
+    /// App To Demonstrate File IO
     /// </summary>
     class Program
     {
